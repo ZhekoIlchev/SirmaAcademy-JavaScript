@@ -1,2 +1,2 @@
-# SirmaAcademy-JavaScript-
+# Sirma Academy - JavaScript
 Exercises: Sirma Academy - JavaScript.
